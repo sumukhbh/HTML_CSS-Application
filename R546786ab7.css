@@ -1,0 +1,107 @@
+li {
+         
+        display : inline-block;
+        text-decoration : none;
+        font-style : italic;
+        padding : 5px;
+        color : grey;
+     }
+     
+
+.list {
+         align-content: center;
+         text-align: center;
+         border: 1px solid black;
+         width : 550px;
+         height : 100px;
+         margin-top : 20px;
+         margin : 0 auto;
+         
+     }
+     
+     
+ ul {
+         margin-top : -40px;
+         margin-left : -30px;
+         font-size : 12px;
+         
+     }
+     
+     
+.PersonName {
+         font-family : Georgia;
+         font-size : 40px;
+         font-weight : 700;
+         margin-top : 15px;
+     }
+     
+     
+.image {
+         height : 310px;
+         width : 310px;
+         object-fit : cover;
+     }
+     
+
+.images {
+            margin : 0 auto;
+            margin-top : 70px;
+            border-collapse: separate;
+            border-spacing : 3px 0px;
+           
+           
+     }
+     
+
+.images td {
+         padding-top: 0.1em;
+         
+     }
+     
+     
+.copyright {
+         margin : 0 auto;
+         font-size : 10px;
+         font-style : italic;
+         font-family : Georgia;
+         text-align : center;
+         margin-top : 35px;
+     }
+     
+     
+.social {
+         height : 22px;
+         width : 22px;
+         display : block;
+         margin : 0 auto;
+         margin-top : 10px;
+     }
+     
+     
+.SocialImages {
+         margin : 0 auto;
+         
+     }
+     
+
+.SocialImages td {
+         padding : 10px;
+     }
+     
+
+a:link {
+         text-decoration : none;
+         color : grey;
+     }
+     
+
+a:visited {
+          text-decoration : none;
+          color : grey;
+     }
+     
+
+.scrolling {
+         width : 650px;
+         margin : 0 auto;
+     }
